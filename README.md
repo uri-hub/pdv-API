@@ -5,8 +5,8 @@
 	<img alt="Repository size" src="https://img.shields.io/github/repo-size/brenoww/pdv-API">
 	<img alt="GitHub lang count" src="https://img.shields.io/github/languages/count/brenoww/pdv-API?color=%2304D361">
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brenoww/pdv-API">
-	<a href="https://github.com/brenoww" style='text-decoration:none'>
-		<img alt="Feito por Uriel Barbosa" src="https://img.shields.io/badge/feito-por%20Breno%20Villas%20Boas-D818A5?style=social">
+	<a href="https://github.com/uri-hub" style='text-decoration:none'>
+		<img alt="Feito por Uriel Barbosa" src="https://img.shields.io/badge/feito-por%20Uriel%20Barbosa-D818A5?style=social">
 	</a>   
 	<a href="https://github.com/brenoww/pdv_API/stargazers" style='text-decoration:none'>
 		<img alt="Stargazers" src="https://img.shields.io/github/stars/brenoww/pdv-API?style=social">
@@ -763,7 +763,7 @@ VALUES
 
 | Colab | Social |
 |-----|-----|
-| **Uriel Barbosa** | <div style="text-algin: center;"><a href="https://github.com/uri-hub"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="110px;" alt=""/></a><br><a href="https://www.linkedin.com/in/uriel-barbosa/"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110px;" alt=""/></a></div> |
+| **Breno Villas Boas** | <div style="text-algin: center;"><a href="https://github.com/brenoww"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="110px;" alt=""/></a><br><a href="https://www.linkedin.com/in/uriel-barbosa/"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110px;" alt=""/></a></div> |
 | **José Wilson** | <div style="text-algin: center;"><a href="https://github.com/josewkim94"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="110px;" alt=""/></a><br><a href="https://www.linkedin.com/in/jose-wilson-johann-kim/"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110px;" alt=""/></a></div> |
 | **Julio Cezar** | <div style="text-algin: center; display: flex"><a href="https://github.com/Julio-Cezar-Santos"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="110px;" alt=""/></a><br><a href="https://www.linkedin.com/in/julio-cezar-dos-santos/"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110px;" alt=""/></a></div> |
 | **Jonatas** | <div style="text-algin: center;"><a href="https://github.com/srjonatas"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="110px;" alt=""/></a><br><a href="https://www.linkedin.com/in/jonatas-santos-/"><img style="border-radius: 50%; display: block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110px;" alt=""/></a></div> |
