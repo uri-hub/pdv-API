@@ -6,7 +6,7 @@
 	<img alt="GitHub lang count" src="https://img.shields.io/github/languages/count/brenoww/pdv-API?color=%2304D361">
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brenoww/pdv-API">
 	<a href="https://github.com/brenoww" style='text-decoration:none'>
-		<img alt="Feito por Breno Villas Boas" src="https://img.shields.io/badge/feito-por%20Breno%20Villas%20Boas-D818A5?style=social">
+		<img alt="Feito por Uriel Barbosa" src="https://img.shields.io/badge/feito-por%20Breno%20Villas%20Boas-D818A5?style=social">
 	</a>   
 	<a href="https://github.com/brenoww/pdv_API/stargazers" style='text-decoration:none'>
 		<img alt="Stargazers" src="https://img.shields.io/github/stars/brenoww/pdv-API?style=social">
